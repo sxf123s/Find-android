@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.safframework.utils:saf-kotlin-utils:0.0.2.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/d8d90a0fe0e24fa14a60548ee021d90794c10ee2/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d8d90a0fe0e24fa14a60548ee021d90794c10ee2/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

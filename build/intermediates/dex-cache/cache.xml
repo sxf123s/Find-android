@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\17506\.android\build-cache\ce6dc3aa6765de3b13880c14ed2761742649ca9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c97af203125f33e014bc526b83653f962df31765">
+        <dex dex="E:\androidstudio_workspace\Find\app\build\intermediates\pre-dexed\debug\classes_21083b365fefbcf5d0ade170b36da2f2ada5268c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidstudio_workspace\Find\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62542598efea2770a4170d732e5cd1a2fe94ce8a">
+        <dex dex="E:\androidstudio_workspace\Find\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a022e875478c5ec1cfbb82ef594c23e93599f36a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidstudio_workspace\Find\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\androidstudio_workspace\Find\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e516c57f3fafaf427ba854297959cf6e27bdff4a\classes.dex" />
+    </item>
+
+</items>
